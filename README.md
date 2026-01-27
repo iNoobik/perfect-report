@@ -5,4 +5,4 @@
 
 [![📥 Скачать версию старого Word](https://img.shields.io/badge/📥_Скачать_для-Word_97--2003-668dff?style=for-the-badge)](https://github.com/iNoobik/perfect-report/releases/download/perfect-report-latest/v2.Word.97-2003.doc)
 
-[![📥 Скачать версию OnlyOffice](https://img.shields.io/badge/📥_Скачать_для-OpenOffice-668dff?style=for-the-badge)](https://github.com/iNoobik/perfect-report/releases/download/perfect-report-latest/v2.Onlyoffice.docx)
+[![📥 Скачать версию OnlyOffice](https://img.shields.io/badge/📥_Скачать_для-OnlyOffice-668dff?style=for-the-badge)](https://github.com/iNoobik/perfect-report/releases/download/perfect-report-latest/v2.Onlyoffice.docx)
